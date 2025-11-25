@@ -27,7 +27,7 @@
 #### 💡Trying to figure out
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=docker,cloudflare,amazonwebservices" />
+  <img src="https://skills.syvixor.com/api/icons?i=docker,cloudflare,amazonwebservices,python" />
 </p>
 
 ---
