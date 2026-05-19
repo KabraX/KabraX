@@ -21,13 +21,13 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,vite,astro,tailwindcss,html,css,nodejs,github,obsidian,pnpm,cursor" />
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,vite,astro,python,tailwindcss,html,css,nodejs,github,obsidian,pnpm,claudeai,cloudflare,amazonwebservices" />
 </p>
 
 #### 💡Trying to figure out
 
 <p align="center">
-  <img src="https://skills.syvixor.com/api/icons?i=docker,cloudflare,amazonwebservices,python" />
+  <img src="https://skills.syvixor.com/api/icons?i=docker,stripe,expo" />
 </p>
 
 ---
