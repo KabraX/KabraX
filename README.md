@@ -1,39 +1,34 @@
-<h1 align="center">Hi there! 👋 I'm Jerry</h1>
+<h1 align="left">Jerry Rivero</h1>
 
-<p align="center">
-  🧑‍💻 Developer & Web Accessibility Auditor<br>
-  🛠️ Building solutions written by humans, for humans.<br>
-  🧠 Always learning. Yey S;
+<p align="left">
+  Full Stack Developer & Web Accessibility Based — building for humans, with humans.
 </p>
 
 ---
 
-### 🧩 About Me
+### About me
 
-- 🎓 Graduated in Computer Science Engineering  
-- 🧪 Passionate about web development and user-centered design  
-- 🌐 Currently working at an accessibility-focused company as a **developer and auditor**  
-- ⚙️ I love clean practices, useful solutions, and accessible interfaces  
-- 🧭 Currently exploring: DevOps and cool JS stuffs
+- 🎓 Computer Science Engineer (UCI)
+- 🌐 Full Stack Developer at **A11ySolutions**
+- ⚙️ I care about clean, accessible code without overengineering
+- 🧭 Currently exploring: DevOps, AI agents, and 3D modeling in Blender
 
 ---
 
-### 🚀 Tech Stack
+### Main stack
 
-<p align="center">
+<p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,vite,astro,python,tailwindcss,html,css,nodejs,github,obsidian,pnpm,claudeai,cloudflare,amazonwebservices" />
 </p>
 
-#### 💡Trying to figure out
+**Exploring:**
 
-<p align="center">
+<p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=docker,stripe,expo" />
 </p>
 
 ---
 
-### ☕ The bye bye
-
-Thanks for visiting my profile.  
-I'm always open to learning, collaborating, and improving.  
-See you in the next commit! 🚀
+<p align="left">
+  📫 <a href="mailto:dugoat@protonmail.com">dugoat@protonmail.com</a>
+</p>
